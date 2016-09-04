@@ -1,5 +1,6 @@
 twemproxy ketama
 kafka
-hazelcast
 zookeeper
-ehcache
+read write lock update downgrade
+mybatis cycle include
+Springmvc adapterhandler
